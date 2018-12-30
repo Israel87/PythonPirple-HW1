@@ -34,4 +34,4 @@ refinedValueII = int(secondValue);
 thirdValue = input("enter the third value: ");
 refinedValueIII = int(thirdValue);
 
-print(threeParameters(firstValue, secondValue, thirdValue));
+print(threeParameters(refinedValue, refinedValueII, refinedValueIII));
