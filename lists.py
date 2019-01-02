@@ -21,7 +21,7 @@
 # unique list 
 myUniqueList = [1, 7, 3, 4, 90];
 # left-overs
-myLeftovers = [2, 9, 87, 4, 8];
+myLeftovers = [2, 9, 87, 5, 8];
 
 # user input from prompt.
 Input = input("enter value to be added: ")
